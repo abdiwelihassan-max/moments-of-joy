@@ -6,7 +6,7 @@ This is a personal photography website showcasing my favorite photos and my jour
 
 ---
 
-## 🏆 Objectives
+##  Objectives
 
 - Develop a **photography website** that expresses creativity and emotion through images.
 - Create a **list/gallery of favorite photos** in an organized and aesthetic layout.
@@ -37,4 +37,35 @@ This is a personal photography website showcasing my favorite photos and my jour
 ---
 
 ## 📂 Project Structure
+---
+
+## 📸 About the Project
+
+This photography website was created to express emotions, memories, and creativity through images. It showcases a selection of favorite photographs along with a short biography, using clean design principles learned in HTML and CSS.
+
+The project follows a structured workflow: planning the design, developing the website, using GitHub for version control, and finally deploying the site using GitHub Pages.
+
+---
+
+## 🚀 Deployment
+
+The website is published using **GitHub Pages (gh-pages)** and can be accessed publicly once deployed.
+
+Steps used:
+1. Push the project to GitHub
+2. Enable GitHub Pages in repository settings
+3. Select the `main` branch as the source
+4. Access the live website via the generated link
+
+---
+
+## ✨ Learning Outcomes
+
+- Improved understanding of HTML and CSS layout techniques
+- Practical experience with Git and GitHub
+- Better planning through wireframes and design-first approach
+- Enhanced creativity in web and visual design
+
+---
+
 
