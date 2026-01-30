@@ -1,70 +1,51 @@
-# 📸 Abdiweli's Photography Website
+# Project Name
 
-> "Photography is a way of feeling, touching, and of loving. What you have caught on film is captured forever. It remembers the little things, long after you have forgotten everything."
+## Author
 
-This is a personal photography website showcasing my favorite photos and my journey as a photographer. The website is designed to be visually appealing while demonstrating skills in **HTML** and **CSS**.
+Abdiweli Hssein
 
----
+## Description
 
-##  Objectives
+This project is a web-based application created to demonstrate practical skills in programming and web development. It focuses on clean design, responsive layout, and well-structured code. The project can be used for learning, demonstration, or as a foundation for future improvements.
 
-- Develop a "photography website" that expresses creativity and emotion through images.
-- Create a "list/gallery of favorite photos" in an organized and aesthetic layout.
-- Include a "short biography" explaining the website and the photographer’s vision.
-- "Design the website before development" and attach the design for review.
-- Use GitHub for version control" with regular commits during development.
-- Publish the completed website using GitHub Pages (gh-pages)".
-- Improve skills in "web design, layout, and project workflow"from planning to deployment.
+## Project Setup Instructions
 
----
+To set up and run this project locally, follow these steps:
 
-## 🌟 Features
+1. Clone this repository to your local machine:
 
-- Clean, modern, and responsive design
-- Image gallery for favorite photographs
-- Biography section
-- Easy to customize and extend
-- Beginner-friendly code structure
+   ```bash
+   git clone https://github.com/abdiwelihassan-max/moments-of-joy.git
+   ```
+2. Navigate into the project directory:
 
----
+   ```bash
+   cd https://github.com/abdiwelihassan-max/moments-of-joy
+   ```
+3. Open the project in your code editor (for example, VS Code).
+4. If it is a web project, open the `index.html` file in your browser or use a live server extension.
 
-## 🛠️ Technologies Used
+## Live Site
 
-- **HTML5** – page structure  
-- **CSS3** – styling and layout  
-- **Google Fonts** – typography  
+View the live project on GitHub Pages:
 
----
+👉 [https://github.com/abdiwelihassan-max/moments-of-joy]
 
-## 📂 Project Structure
----
+## Technologies Used
 
-## 📸 About the Project
+* HTML
+* CSS
 
-This photography website was created to express emotions, memories, and creativity through images. It showcases a selection of favorite photographs along with a short biography, using clean design principles learned in HTML and CSS.
+## Copyright and License
 
-The project follows a structured workflow: planning the design, developing the website, using GitHub for version control, and finally deploying the site using GitHub Pages.
+© 2026 Abdiweli Hssein
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project, provided that proper credit is given to the original author.
 
 ---
 
-## 🚀 Deployment
+Feel free to contribute, suggest improvements, or fork this repository.
 
-The website is published using **GitHub Pages (gh-pages)** and can be accessed publicly once deployed.
-
-Steps used:
-1. Push the project to GitHub
-2. Enable GitHub Pages in repository settings
-3. Select the `main` branch as the source
-4. Access the live website via the generated link
-
----
-
-## ✨ Learning Outcomes
-
-- Improved understanding of HTML and CSS layout techniques
-- Practical experience with Git and GitHub
-- Better planning through wireframes and design-first approach
-- Enhanced creativity in web and visual design
 
 ---
 
