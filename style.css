@@ -132,6 +132,12 @@ footer {
   width: 300px;
   border-radius: 10px;
 }
+body {
+  background-image: url("raisow.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
 
 
