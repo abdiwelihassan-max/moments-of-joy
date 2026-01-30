@@ -128,5 +128,10 @@ footer {
     color: #ccc;
     padding: 15px 0;
 }
+.profile-img {
+  width: 300px;
+  border-radius: 10px;
+}
+
 
 
